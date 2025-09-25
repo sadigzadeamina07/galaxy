@@ -46,7 +46,7 @@ top:200px;
            top: 50%;
     left: 50%;
             animation:moon 5s linear infinite;
-            transform-origin:-50px center;
+            transform-origin:-35px center;
         }
 @keyframes sun {
     from{
