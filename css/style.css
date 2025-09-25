@@ -5,8 +5,8 @@
 }
 body{
     display: flex;
-    justify-content: center; /* üfüqi mərkəz */
-    align-items: center;     /* şaquli mərkəz */
+    justify-content: center; 
+    align-items: center;  
 }
 
 .planet{
@@ -14,7 +14,7 @@ body{
     justify-content: center;
     align-items: center;
     position: relative;
-    width: 400px;  /* orbit sahəsi */
+    width: 400px; 
     height: 400px;
 }
 .planet *{
@@ -37,7 +37,7 @@ top:200px;
     top: 50%;
     left: 50%;
         animation:earth 10s linear infinite;
-        transform-origin:-100px center;
+        transform-origin:-85px center;
     }
     #moon{
         background: url('../img/07cb137eb8e9dc533a9ecade295ad606-removebg-preview\ \(2\).png')  no-repeat;
